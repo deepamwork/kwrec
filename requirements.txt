@@ -1,0 +1,16 @@
+transformers
+sentencepiece
+datasets
+evaluate
+accelerate
+torch
+numpy
+nltk
+scikit-learn
+gensim
+rouge-score
+tqdm
+pandas
+gradio
+bitsandbytes
+sentence_transformers
